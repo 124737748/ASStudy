@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">LookLook</string>
+    <string name="scan_text">对准二维码/条形码到框内即可扫描</string>
+</resources>
